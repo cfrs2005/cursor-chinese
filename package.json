@@ -1,0 +1,42 @@
+{
+  "name": "cursor-chinese-guide",
+  "version": "1.0.0",
+  "description": "最全面的 Cursor 中文学习指南，深挖 AI 编程工具的强大功能",
+  "main": "index.js",
+  "scripts": {
+    "dev": "bundle exec jekyll serve",
+    "build": "bundle exec jekyll build",
+    "install": "bundle install",
+    "clean": "bundle exec jekyll clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cursor-chinese-guide/cursor-chinese-guide.git"
+  },
+  "keywords": [
+    "cursor",
+    "ai",
+    "programming",
+    "chinese",
+    "guide",
+    "tutorial",
+    "mcp",
+    "development"
+  ],
+  "author": "Cursor 中文学习指南团队",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cursor-chinese-guide/cursor-chinese-guide/issues"
+  },
+  "homepage": "https://github.com/cursor-chinese-guide/cursor-chinese-guide#readme",
+  "devDependencies": {
+    "@modelcontextprotocol/server-github": "^0.1.0",
+    "@modelcontextprotocol/server-notion": "^0.1.0",
+    "@modelcontextprotocol/server-figma": "^0.1.0",
+    "@modelcontextprotocol/server-playwright": "^0.1.0",
+    "@modelcontextprotocol/server-vercel": "^0.1.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
