@@ -25,6 +25,15 @@ search:
 # 导航结构
 nav_sort: case_insensitive
 
+# 自定义导航
+navigation:
+  - title: 首页
+    url: /
+  - title: Cursor MCP 推荐
+    url: /01-cursor-mcp-推荐/
+  - title: 热门项目推荐
+    url: /02-热门Cursor项目推荐/
+
 # 辅助链接
 aux_links:
   "GitHub 仓库":
