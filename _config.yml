@@ -31,6 +31,8 @@ navigation:
     url: /
   - title: Cursor MCP 推荐
     url: /01-cursor-mcp-推荐/
+  - title: Cursor基础操作
+    url: /02-cursor基础操作/
   - title: 热门项目深度分析
     children:
       - title: 第3章：AI工具系统提示词集合
