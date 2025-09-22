@@ -31,8 +31,28 @@ navigation:
     url: /
   - title: Cursor MCP 推荐
     url: /01-cursor-mcp-推荐/
-  - title: 热门项目推荐
-    url: /02-热门Cursor项目推荐/
+  - title: 热门项目深度分析
+    children:
+      - title: 第3章：AI工具系统提示词集合
+        url: /03-ai工具系统提示词集合/
+      - title: 第4章：Cursor免费VIP工具
+        url: /04-cursor免费vip工具/
+      - title: 第5章：Awesome CursorRules
+        url: /05-awesome-cursorrules/
+      - title: 第6章：Cursor官方项目
+        url: /06-cursor官方项目/
+      - title: 第7章：Onlook设计师工具
+        url: /07-onlook设计师工具/
+      - title: 第8章：Claude任务管理大师
+        url: /08-claude任务管理大师/
+      - title: 第9章：Avante.nvim
+        url: /09-avante-nvim/
+      - title: 第10章：Figma Context MCP
+        url: /10-figma-context-mcp/
+      - title: 第11章：FastAPI MCP
+        url: /11-fastapi-mcp/
+      - title: 第12章：CL4R1T4S
+        url: /12-cl4r1t4s/
 
 # 辅助链接
 aux_links:
