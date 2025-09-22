@@ -1,8 +1,8 @@
 # Jekyll 配置文件
 title: "Cursor 中文学习指南"
 description: "最全面的 Cursor 中文学习指南，深挖 AI 编程工具的强大功能"
-url: "https://cursor-chinese-guide.github.io"
-baseurl: "/cursor-chinese-guide"
+url: "https://cfrs2005.github.io"
+baseurl: "/cursor-chinese"
 
 # 使用 Just the Docs 主题
 remote_theme: just-the-docs/just-the-docs
@@ -46,7 +46,7 @@ last_edit_time_format: "%Y年%m月%d日"
 # GitHub 编辑链接
 gh_edit_link: true
 gh_edit_link_text: "在 GitHub 上编辑此页"
-gh_edit_repository: "https://github.com/cursor-chinese-guide/cursor-chinese-guide"
+gh_edit_repository: "https://github.com/cfrs2005/cursor-chinese"
 gh_edit_branch: "main"
 gh_edit_source: ""
 gh_edit_view_mode: "tree"
